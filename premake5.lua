@@ -24,7 +24,7 @@ project "ImGui"
 
 	filter "system:windows"
 		systemversion "latest"
-		staticruntime "On"
+		--staticruntime "On"
 
 
 	filter "configurations:Debug"
